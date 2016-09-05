@@ -19,7 +19,7 @@ A simple technical customer support process (email).
 
 ### Diagram
 
-
+![resolve technical issue](https://raw.githubusercontent.com/TimKam/process-thinking/master/Resolve%20technical%20issue%20(mail).png)
 
 ### Key facts
 
